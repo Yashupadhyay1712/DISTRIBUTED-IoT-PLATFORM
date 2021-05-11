@@ -1,0 +1,1 @@
+{'UserId': 'shubh', 'AppName': 'SmartClass', 'algoid': 'SAC', 'form': 'run', 'start_time': '6:00', 'location': 'obh_113', 'duration': '20', 'request_type': 'immediate', 'priority': 'low', 'days': 'everyday', 'DevName': 'shubham'}

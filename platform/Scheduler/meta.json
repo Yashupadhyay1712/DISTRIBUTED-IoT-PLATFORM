@@ -1,0 +1,20 @@
+
+{
+		"scheduler":[
+	{
+		"UserId":"harshit@gamil.com",
+		"AppName":"SmartClass",
+		"algoid":"IAD",
+		"priority":"medium",
+		"request_type":"immediate",
+		"days":"",
+		"start_time":"12:00",
+		"duration":"10",
+		"form":"run",
+		"action":"",
+		"notification":"",
+		"location":"obh_112"
+	} 
+]
+}
+
